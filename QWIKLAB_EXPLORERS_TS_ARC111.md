@@ -6,7 +6,13 @@
 
 ```
 export BUCKET_1=
+```
+
+```
 export BUCKET_2=
+```
+
+```
 export BUCKET_3=
 ```
 
